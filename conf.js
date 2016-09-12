@@ -4,7 +4,7 @@ exports.config = {
   sauceKey: process.env.SAUCE_ACCESS_KEY,
 
   //seleniumAddress: 'http://ondemand.saucelabs.com:80/wd/hub',
-  specs: ['specs/*spec.js'],
+  specs: ['specs/PG.json'],
 
   // restartBrowserBetweenTests: true,
 
