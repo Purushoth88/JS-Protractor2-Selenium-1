@@ -4,6 +4,6 @@
   "description": "Parallel tests protractor  =============",
   "main": "",
   "devDependencies": {
-    "protractor": "2.1.0"
+    "protractor": "3.0.2"
   }
 }
