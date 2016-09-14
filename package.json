@@ -1,9 +1,9 @@
 {
   "name": "JS-Protractor-Selenium-1",
-  "version": "0.0.1",
+  "version": "3.0.2",
   "description": "Parallel tests protractor  =============",
   "main": "",
   "devDependencies": {
-    "protractor": "3.0.2"
+    "protractor": "2.1.0"
   }
 }
